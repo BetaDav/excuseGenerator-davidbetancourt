@@ -1,5 +1,6 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
+    margin-top: 20%;
     background: white;
 }
